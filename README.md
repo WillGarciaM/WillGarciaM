@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillGarciaM&show_icons=true&locale=en&layout=compact&theme=cobalt" height="180em">
 
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
