@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on NTT DATA
-- 🌱 I’m currently learning Node
+🔭 I’m currently working on NTT DATA
+🌱 I’m currently learning Node
 -->
