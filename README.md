@@ -12,8 +12,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillGarciaM&show_icons=true&locale=en&layout=compact&theme=cobalt" height="180em">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![image](https://github.com/WillGarciaM/WillGarciaM/assets/30614383/214d45ac-4789-48ec-b19e-caf8e38bf911)
